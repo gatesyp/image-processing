@@ -12,3 +12,9 @@
     http://opencvpython.blogspot.com/2012/05/skeletonization-using-opencv-python.html
 - Canny algo for edge detection  
     http://docs.opencv.org/3.1.0/da/d22/tutorial_py_canny.html
+
+
+## Installation
+
+- sudo dnf install python-matplotlib numpy opencv*
+
